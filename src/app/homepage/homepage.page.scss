@@ -1,0 +1,329 @@
+$primary-color: #440099;
+
+.firstnav{
+    background-color: $primary-color;
+    color: #ffffff; 
+    opacity: 1;
+}
+
+.fontsize12{
+        font-size: .75rem;
+        opacity: 100%;
+
+    .imgthumbnail{
+        opacity: 1;
+        display: inline-block;
+      width: .9rem;
+      height: .9rem;
+      padding-top: .2rem;
+    }
+}
+
+.btnwidth{
+    width: 14rem;
+    background-color: $primary-color ;
+    color: #F8C433;
+    border-radius: 25px !important;
+    padding: .4rem;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+}
+
+.curser12{
+    cursor: pointer;
+    color: #707070 !important; 
+}
+
+
+
+.textsize {
+    color: #707070; 
+    opacity: 1; 
+    margin-left: -1.4rem;
+}
+.ion-card-color1{
+    background: #440099;
+    .ioncardcontent {
+        color: #FFFFFF;
+    .font{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+     }
+     .belowfont
+     {
+         margin-top: 40px;
+        opacity: 0.5;
+     }
+     .image{
+         margin-top: 30px;
+         margin-right: 60px;
+         width: 700%
+     }
+    }
+}
+.ion-card-color2{
+    background: #440099;
+    .ioncardcontent {
+     color: #FFFFFF;
+    
+ 
+    .image-position{
+        margin-top: 50px;
+        .image-text{
+            text-align: center;
+            margin-right:130px;
+            margin-top: 40px;
+        }
+    }
+    .footer1{
+        margin-top: 30rem;
+    }
+}
+  }
+.ion-card-color{
+    z-index: -1;
+    background: #440099;
+    .ioncardcontent {
+     color: #FFFFFF;
+     .font{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+     }
+     .belowfont
+     {
+         margin-top: 40px;
+        opacity: 0.5;
+     }
+     .image{
+         margin-top: 30px;
+         margin-right: 60px;
+         width: 700%
+     }
+    }
+ 
+    .image-position{
+        margin-top: 50px;
+        .image-text{
+            text-align: center;
+            margin-right:130px;
+            margin-top: 40px;
+        }
+    }
+    .footer1{
+        margin-top: 30rem;
+    }
+ 
+  }
+.secondCard2{
+    z-index: 1;
+    margin-top: 4rem;
+    margin-bottom: -16rem;
+}
+
+  .gridcard{
+      margin-top: -1.6rem;
+  }
+
+.Main{
+
+    .mainImg {
+      height: 640px;
+      width: 100%;
+    }
+    .textOnImage {
+      position: absolute;
+      top: 32rem;
+      left: 325px;
+      width: 476px;
+      height: 212px;
+      text-align: left;
+      font:  bold 28px Azo Sans;
+      letter-spacing: 0px;
+      color: $primary-color;
+      opacity: 1;
+    }
+    .flightImg {
+      position: absolute;
+      top: 8rem;
+      right: 8rem;
+      width: 549px;
+      height: 452px;
+      opacity: 1;
+    }
+    .cardOnImg{
+      position: absolute;
+      top: 17rem !important;
+      right:  9.7rem;
+      width: 450px;
+      height: 400px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 13px;
+
+      .formicon{
+        position: absolute;
+          width: 1.3rem;
+          height: 1.3rem;
+          top: 2.1rem;
+          left: 0.3rem;
+      }
+
+      .formicon12{
+        position: absolute;
+          width: 1.53rem;
+          height: 1.53rem;
+          top: 2.1rem;
+          left: 22.3rem;
+      }
+
+      .formicon13{
+        position: absolute;
+        width: .8rem;
+        height: .8rem;
+        top: 2.5rem;
+        left: 9.6rem;
+      }
+
+      .pStyle{
+          color: #092532 ;
+      }
+
+      .smallinput{
+        width: 11rem !important;
+        padding-left: 0.375rem !important;
+        padding-right: 2rem !important;
+      }
+
+      .form-control {
+        display: block;
+        width: 22rem;
+        padding-top: 0.375rem;
+        padding-right: 0.375rem;
+        padding-bottom: 0.375rem;
+        padding-left: 2rem;
+        font-size: .8rem;
+        line-height: 1.5;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 0.05rem solid #707070;
+         border-radius: 0rem; 
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    }
+    .form-control:focus {
+        color: #495057;
+        background-color: #fff;
+        border-color: none; 
+        outline: 0;
+        box-shadow: none; 
+    }
+
+    }
+    .ActivePre{
+      text-align: left;
+    font-size: 0.92rem;
+      letter-spacing: 0px;
+      top: 2rem;
+      margin-left: -2rem;
+      color: #440099;
+      text-transform: capitalize;
+      opacity: 1;
+    }
+    .Forward{
+      position: absolute;
+      top: 16rem;
+      right: 36px;
+      width: 50px;
+      height: 73px;
+      opacity: 1;
+    }
+
+
+
+
+    
+    
+  }
+  .world{
+    width: auto;
+  }
+
+
+
+
+  .AvatarSize{
+    width:35% !important;  
+height : 20% !important;  
+}
+.AvatarSize2{
+    width:20% !important;  
+    height : 20% !important;  
+}
+.secondCard{
+    // position: absolute;
+    width: 1300px;
+    // top: -20rem;
+    // z-index: 10;
+}
+
+
+.LastColumn{
+    position: absolute;
+    right: 1px;
+    bottom: 30px;
+}
+ion-item{
+    color: black;
+    --inner-border-width:0px;
+}
+
+
+  
+@media (min-width: 1025px) and (max-width: 2560px) {
+
+}
+
+
+@media (min-width: 991px) and (max-width: 1182px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1025px) {
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 425px) {
+
+}
+
+@media only screen and (max-width: 414px) {
+
+
+}
+
+@media only screen and (max-width: 375px) {
+
+
+}
+
+@media only screen and (max-width: 320px) {
+
+    .textsize{
+        color: #707070; 
+        opacity: 1; 
+        margin-left: 1rem;
+    }
+
+}
+
+

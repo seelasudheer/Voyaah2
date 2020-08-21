@@ -1,0 +1,7 @@
+{
+  "name": "voyaah",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
